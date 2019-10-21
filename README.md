@@ -1,4 +1,4 @@
-# Shop on NodeJS from CV
+# Shop on NodeJS for CV
 
 #### This app is developed on:
   - NodeJS
