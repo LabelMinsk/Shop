@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 # Hello here!
 ## Shop on NodeJS from CV
+=======
+# Shop on NodeJS for CV
+>>>>>>> 4ae945021c25797c69dd16748be3c9038f01e631
 
 #### This app is developed on:
   - NodeJS
