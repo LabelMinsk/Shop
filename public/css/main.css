@@ -196,6 +196,10 @@ form {
   background-color: #00695c;
   color: white;
 }
+.img-detail{
+  max-width: 500px;
+  max-height: 500px;
+}
 
 @media (min-width: 768px) {
   .main-header__nav {
