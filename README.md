@@ -5,7 +5,6 @@
   - NodeJS
   - Express
   - Ejs
-  
 #### You can see:
 
 * Dynamic Content
@@ -21,3 +20,5 @@
 * ~~Websockets~~
 * ~~GraphQL~~
 ### Maybe something else
+
+> P.s.  [I`m here](https://www.linkedin.com/in/mikhailkarnou "I`m here")
