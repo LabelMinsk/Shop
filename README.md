@@ -21,4 +21,4 @@
 * ~~GraphQL~~
 ### Maybe something else
 
-> P.s.  [I`m here](https://www.linkedin.com/in/mikhailkarnou "I`m here")
+> P.s.  ["I`m here"](https://www.linkedin.com/in/mikhailkarnou)
