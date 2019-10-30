@@ -10,7 +10,10 @@
 * Dynamic Content
 * The Model View Controller (MVC)
 * Dynamic Routes
-* ~~Using MongoDB and Mongoose~~   
+* Commit 18 - added some refactor code for MySQL
+* Sequelize
+* ~~Using MongoDB and Mongoose~~ 
+* ~~Sessions  Cookies~~  
 * ~~Adding Authentication~~
 * ~~Sending Emails~~
 * ~~File Upload~~
