@@ -49,7 +49,10 @@ exports.getIndex = (req, res, next) => {
 };
 
 exports.getCart = (req, res, next) => {
-  Cart.getCart(cart => {
+ req.user  
+ 
+ 
+  /* Cart.getCart(cart => {
     Product.fetchAll(products => {
       const cartProducts = [];
       for (product of products) {
@@ -66,7 +69,7 @@ exports.getCart = (req, res, next) => {
         products: cartProducts
       });
     });
-  });
+  });*/
 };
 
 exports.postCart = (req, res, next) => {
