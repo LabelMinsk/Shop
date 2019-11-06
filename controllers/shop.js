@@ -49,10 +49,7 @@ exports.getIndex = (req, res, next) => {
 };
 
 exports.getCart = (req, res, next) => {
- req.user  
- 
- 
-  /* Cart.getCart(cart => {
+/*  Cart.getCart(cart => {
     Product.fetchAll(products => {
       const cartProducts = [];
       for (product of products) {
