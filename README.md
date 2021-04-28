@@ -1,4 +1,4 @@
-# Hello here!
+# Hello there!
 ## Shop on NodeJS from CV
 
 #### This app is developed on:
